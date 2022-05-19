@@ -1,6 +1,6 @@
 # :pushpin: Playground Functions
 
-![Preview do Projeto](preview.jpg)
+![Preview do Projeto](preview.png)
 
 Você pode ver o código dos _Requisitos Obrigatórios_ [clicando aqui](https://github.com/GabrielFQK/playground-functions/blob/main/challenges.js) e dos _Requisitos Bônus_ [aqui](https://github.com/GabrielFQK/playground-functions/blob/main/challenges2.js)
 
